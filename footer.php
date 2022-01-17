@@ -57,7 +57,7 @@
                 <div class="main5 col-lg-4 col-md-4 col-sm-4">
                     <p>
                     <div class="text-secondary">
-                        kishorijathar01@gmail.com<br>snehalmali22742@gmail.com<br>jadhavpratika2001@gmail.com<br>kalyanimkadam2@gmail.com
+                        <a href="kishorijathar01@gmail.com">kishorijathar01@gmail.com</a><br>snehalmali22742@gmail.com<br>jadhavpratika2001@gmail.com<br>kalyanimkadam2@gmail.com
                     </div>
                     </p>
                 </div>
